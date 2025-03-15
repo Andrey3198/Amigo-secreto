@@ -1,1 +1,3 @@
-# Amigo-secreto
+# Amigo-secreto 
+Trabajo de juego amigo secreto 
+
